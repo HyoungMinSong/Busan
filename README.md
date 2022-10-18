@@ -27,11 +27,11 @@
 </br>
 
 ## 4. 와이어 프레임
-![1](./img/1-title.png)
+![1](./img/1-title.jpg)
 
-![2](./img/2-title.png)
+![2](./img/2-title.jpg)
 
-![3](./img/3-title.png)
+![3](./img/3-title.jpg)
 
 </br>
 
