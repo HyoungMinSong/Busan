@@ -27,11 +27,18 @@
 </br>
 
 ## 4. 와이어 프레임
+<details>
+<summary><b>와이어 프레임 보기</b></summary>
+<div markdown="1">
+
 ![1](./img/1-title.jpg)
 
 ![2](./img/2-title.jpg)
 
 ![3](./img/3-title.jpg)
+
+</div>
+</details>
 
 </br>
 
